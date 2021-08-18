@@ -1,0 +1,45 @@
+module.exports.descriptors = [
+    'Forest Books',
+    'Ancient Books',
+    'Petrified Books',
+    'Roaring Books',
+    'Cascade Books',
+    'Tumbling Books',
+    'Silent Books',
+    'Redwood Books',
+    'Bullfrog Books',
+    'Maple Books',
+    'Misty Books',
+    'Elk Books',
+    'Grizzly Books',
+    'Ocean Books',
+    'Sea Books',
+    'Sky Books',
+    'Dusty Books',
+    'Diamond Books'
+]
+
+module.exports.places = [
+    'Flats',
+    'Village',
+    'Canyon',
+    'Pond',
+    'Group Camp',
+    'Horse Camp',
+    'Ghost Town',
+    'Camp',
+    'Dispersed Camp',
+    'Backcountry',
+    'River',
+    'Creek',
+    'Creekside',
+    'Bay',
+    'Spring',
+    'Bayshore',
+    'Sands',
+    'Mule Camp',
+    'Hunting Camp',
+    'Cliffs',
+    'Hollow'
+]
+
